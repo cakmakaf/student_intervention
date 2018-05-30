@@ -16,7 +16,9 @@ The code is provided in the `student_intervention.ipynb` notebook file. In addit
 The project has 3 files:
 
 student_intervention.html: Report File
+
 student_intervention.ipynb: This is the master file that Icontributed to complete the project.
+
 student-data.csv: Dataset File.
 
 To execute the code, Python 3.X is rquired. For the sake of convenience Anaconda platform always recommended to be able to use Jupyter Notebook. If you only interested to see the result then click which file youwant o your browser and navigate it. 
